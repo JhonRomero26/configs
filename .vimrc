@@ -28,9 +28,15 @@ set relativenumber
 set laststatus=2
 set noshowmode
 
+so ~/configs/.vim/plugins.vim
+so ~/configs/.vim/maps.vim
+
 " Searching
 set hlsearch              " highlight matches
 set incsearch             " incremental searching
 set ignorecase            " searche are case insensitive...
 set smartcase             " ... unless they contain at least one capital letter
 
+colorscheme onedark
+let g:onedark_termcolors=256
+let g:onedark_terminal_italics=1
