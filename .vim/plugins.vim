@@ -44,4 +44,7 @@ Plug 'tpope/vim-fugitive'
 
 Plug 'tpope/vim-repeat'
 
+" Styles 
+Plug 'ryanoasis/vim-devicons'
+
 call plug#end()

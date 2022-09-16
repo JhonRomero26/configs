@@ -7,8 +7,8 @@ nnoremap <Leader>TT :TestSuite<CR>
 
 " split resize
 nnoremap <Leader>> 10<C-w>>
-nnoremap <Leader>< 10<C-w><
 
+nnoremap <Leader>< 10<C-w><
 " quick semi
 nnoremap <Leader>; $a;<Esc>
 

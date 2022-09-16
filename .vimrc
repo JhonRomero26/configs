@@ -28,9 +28,9 @@ set relativenumber
 set laststatus=2
 set noshowmode
 
-so ~/configs/.vim/plugins.vim
-so ~/configs/.vim/maps.vim
-so ~/configs/.vim/plugins-config.vim
+so ~/.vim/plugins.vim
+so ~/.vim/maps.vim
+so ~/.vim/plugins-config.vim
 
 " Searching
 set hlsearch              " highlight matches
